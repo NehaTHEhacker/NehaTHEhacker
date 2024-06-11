@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NehaTHEhacker
-- 👀 I’m interested in your dad
+
 - 🌱 I’m currently learning java
   
 
